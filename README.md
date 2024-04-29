@@ -1,2 +1,2 @@
-# rickroll-hosts
-rickroll host file to block rickrolls
+# rickroll-links
+rickroll links in one file to block rickrolls
